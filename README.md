@@ -1,2 +1,2 @@
-# dadiaz14_Tarea-3_CODIGO
+# dadiaz14_Tarea_3_CODIGO
 Tarea 3 David Diaz
